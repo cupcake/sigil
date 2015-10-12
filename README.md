@@ -1,5 +1,7 @@
 # Sigil
 
+![Deploy To Heroku](https://heroku.com/deploy?template=https://github.com/cupcake/sigil/tree/master)
+
 ![Sigil's inverted Sigil](https://sigil.cupcake.io/Sigil?inverted=1)
 ![Sigil's Sigil](https://sigil.cupcake.io/Sigil)
 
