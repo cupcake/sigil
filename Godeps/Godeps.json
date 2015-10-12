@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/cupcake/sigil",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/ajstarks/svgo",
+			"Comment": "go.weekly.2012-01-27-112-g7729261",
+			"Rev": "77292617dc6b7ef6c9813385a6b6089969997285"
+		}
+	]
+}
