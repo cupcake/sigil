@@ -1,0 +1,15 @@
+{
+  "name": "sigil",
+  "description": "Deterministic identicon generator",
+  "keywords": [
+    "go",
+    "identicon"
+  ],
+  "image": "heroku/go",
+  "mount_dir": "src/github.com/cupcake/sigil",
+  "website": "https://sigil.cupcake.io/",
+  "repository": "http://github.com/cupcake/sigil",
+  "env": {
+    "GO15VENDOREXPERIMENT": "1"
+  }
+}
